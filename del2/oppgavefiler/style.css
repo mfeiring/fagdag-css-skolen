@@ -1,0 +1,17 @@
+body {
+  background: #fafafa;
+  color: #999;
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+form {
+  background: white;
+}
+
+.logo {
+}
